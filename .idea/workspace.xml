@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d7f4f96a-5ac6-4fa8-b145-7caa0caa77d0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data Structures.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Data Structures/META-INF/Data Structures.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Data Structures/com/utility/Utility.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Data Structures/dsa/recursion/Recursion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Data Structures/dsa/trees/BinarySearchTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Data Structures/dsa/trees/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Data Structures/dsa/trees/Tree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/utility/Utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dsa/recursion/Recursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dsa/trees/BinarySearchTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dsa/trees/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dsa/trees/Tree.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="DataStructures" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\Kuriocity\Downloads\DataStructures\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1p1jXkj84UDmHKkmTv9JAvamAPS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/Change Language" value="JAVA&#10;kotlin&#10;Groovy" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
+    <property name="ignore.virus.scanning.warn.message" value="true" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value=";" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Java Scratch.Scratch">
+    <configuration name="Recursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dsa.recursion.Recursion" />
+      <module name="Data Structures" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dsa.recursion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scratch" type="Application" factoryName="Application" temporary="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Scratch" />
+      <module name="Data Structures" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dsa.trees.Tree" />
+      <module name="Data Structures" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dsa.trees.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scratch (1)" type="Java Scratch" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Scratch" />
+      <option name="SCRATCH_FILE_URL" value="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scratch" type="Java Scratch" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Scratch" />
+      <option name="SCRATCH_FILE_URL" value="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Java Scratch.Scratch" />
+        <item itemvalue="Application.Recursion" />
+        <item itemvalue="Java Scratch.Scratch (1)" />
+        <item itemvalue="Application.Scratch" />
+        <item itemvalue="Application.Tree" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d7f4f96a-5ac6-4fa8-b145-7caa0caa77d0" name="Default Changelist" comment="" />
+      <created>1614357531924</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614357531924</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="593" y="154" key="#Scratch" timestamp="1615636119084">
+      <screen x="0" y="0" width="1676" height="902" />
+    </state>
+    <state x="593" y="154" key="#Scratch/0.0.1676.902@0.0.1676.902" timestamp="1615636119084" />
+    <state x="679" y="178" key="#Scratch/0.0.1920.1040@0.0.1920.1040" timestamp="1615301002424" />
+    <state x="562" y="109" key="#Scratch2" timestamp="1615636150785">
+      <screen x="0" y="0" width="1676" height="902" />
+    </state>
+    <state x="562" y="109" key="#Scratch2/0.0.1676.902@0.0.1676.902" timestamp="1615636150785" />
+    <state x="598" y="279" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1615636115771">
+      <screen x="0" y="0" width="1676" height="902" />
+    </state>
+    <state x="598" y="279" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1676.902@0.0.1676.902" timestamp="1615636115771" />
+    <state x="803" y="417" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1615306608166">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="803" y="417" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1920.1040@0.0.1920.1040" timestamp="1615306608166" />
+    <state x="555" y="160" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog" timestamp="1615720093838">
+      <screen x="0" y="0" width="1676" height="902" />
+    </state>
+    <state x="555" y="160" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog/0.0.1676.902@0.0.1676.902" timestamp="1615720093838" />
+    <state x="92" y="92" width="1491" height="717" key="DiffContextDialog" timestamp="1615653910945">
+      <screen x="0" y="0" width="1676" height="902" />
+    </state>
+    <state x="92" y="92" width="1491" height="717" key="DiffContextDialog/0.0.1676.902@0.0.1676.902" timestamp="1615653910945" />
+    <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1615307176274">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1615307176274" />
+    <state width="1493" height="149" key="GridCell.Tab.0.bottom" timestamp="1622972133613">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="149" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1622972133613" />
+    <state width="1632" height="292" key="GridCell.Tab.0.bottom/0.0.1676.902@0.0.1676.902" timestamp="1615753782005" />
+    <state width="1877" height="202" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1616058515527" />
+    <state width="1493" height="149" key="GridCell.Tab.0.center" timestamp="1622972133612">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="149" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1622972133612" />
+    <state width="1632" height="292" key="GridCell.Tab.0.center/0.0.1676.902@0.0.1676.902" timestamp="1615753782003" />
+    <state width="1877" height="202" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1616058515527" />
+    <state width="1493" height="149" key="GridCell.Tab.0.left" timestamp="1622972133612">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="149" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1622972133612" />
+    <state width="1632" height="292" key="GridCell.Tab.0.left/0.0.1676.902@0.0.1676.902" timestamp="1615753782002" />
+    <state width="1877" height="202" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1616058515527" />
+    <state width="1493" height="149" key="GridCell.Tab.0.right" timestamp="1622972133612">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="149" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1622972133612" />
+    <state width="1632" height="292" key="GridCell.Tab.0.right/0.0.1676.902@0.0.1676.902" timestamp="1615753782004" />
+    <state width="1877" height="202" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1616058515527" />
+    <state width="1632" height="292" key="GridCell.Tab.1.bottom" timestamp="1615753782005">
+      <screen x="0" y="0" width="1676" height="902" />
+    </state>
+    <state width="1632" height="292" key="GridCell.Tab.1.bottom/0.0.1676.902@0.0.1676.902" timestamp="1615753782005" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1615116282961" />
+    <state width="1632" height="292" key="GridCell.Tab.1.center" timestamp="1615753782005">
+      <screen x="0" y="0" width="1676" height="902" />
+    </state>
+    <state width="1632" height="292" key="GridCell.Tab.1.center/0.0.1676.902@0.0.1676.902" timestamp="1615753782005" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1615116282961" />
+    <state width="1632" height="292" key="GridCell.Tab.1.left" timestamp="1615753782005">
+      <screen x="0" y="0" width="1676" height="902" />
+    </state>
+    <state width="1632" height="292" key="GridCell.Tab.1.left/0.0.1676.902@0.0.1676.902" timestamp="1615753782005" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1615116282961" />
+    <state width="1632" height="292" key="GridCell.Tab.1.right" timestamp="1615753782005">
+      <screen x="0" y="0" width="1676" height="902" />
+    </state>
+    <state width="1632" height="292" key="GridCell.Tab.1.right/0.0.1676.902@0.0.1676.902" timestamp="1615753782005" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1615116282961" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1615307140255">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1615307140255" />
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1614702114339">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1614702114339" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1615463708363">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1615463708363" />
+    <state x="721" y="189" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1615549775820">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="721" y="189" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1615549775820" />
+    <state x="656" y="252" width="607" height="536" key="find.popup" timestamp="1614701887266">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="252" width="607" height="536" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1614701887266" />
+    <state x="666" y="148" key="refactoring.ChangeSignatureDialog" timestamp="1615919627268">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="666" y="148" key="refactoring.ChangeSignatureDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1615919627268" />
+    <state x="616" y="240" width="672" height="677" key="run.anything.popup" timestamp="1615919635098">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" width="672" height="677" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1615919635098" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1615114210561">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1615114210561" />
+  </component>
+</project>

@@ -67,7 +67,7 @@ public class BinarySearchTree {
         return true;
     }
 
-    static TreeMap<Integer, I   nteger> treeMap = new TreeMap<>();
+    static TreeMap<Integer, Integer> treeMap = new TreeMap<>();
 
     static int verticalSumBST(Node root) {
         getSumOfHorizontalDistances(root, 0);
